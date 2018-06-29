@@ -59,7 +59,7 @@ python -m scripts.retrain \
   done 
 
 Upon classification, the images will be classified into different categories and saved into their respective class folders.
-  
+    
 
 
 
