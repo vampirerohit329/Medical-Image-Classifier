@@ -70,7 +70,7 @@ Upon classification, the images will be classified into different categories and
  The results predicted correspond to 95% assurance that the the view of the this image is right ventrical outflow tract (rvot view) which is a correct prediction.
  
  Second time, I used this image using the same classifier. 
- ![](IMG2.jpg)
+ ![](Image.jpg)
  
  And these were the results:
  ![](Results2.jpg) 
