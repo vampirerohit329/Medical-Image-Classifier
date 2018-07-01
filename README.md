@@ -61,7 +61,7 @@ python -m scripts.retrain \
 Upon classification, the images will be classified into different categories and saved into their respective class folders.
     
  # Results:
- Here's an image which I tried classifying.
+ Here's an image which I tried classifying by training the model on approx 300-400 prelabelled images. 
  ![](IMG1.jpg)
  
  These are the results:
