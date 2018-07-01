@@ -50,7 +50,7 @@ python -m scripts.retrain \
   Create empty folders in the main directory with the same names as the folder classes.
   
   # Final step
-  See how many images are there to classify in total and run this command in dockerwhere y is the number of images to classify
+  See how many images are there to classify in total and run this command in docker, where y is the number of images to classify
   
     for (( i=1; i<=y; i++))
   do \
