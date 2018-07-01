@@ -65,9 +65,17 @@ Upon classification, the images will be classified into different categories and
  ![](IMG1.jpg)
  
  These are the results:
- ![](Results.jpg)
+ ![](Results1.jpg)
  
- The results predicted correspond to 95% assurance that the the view of the this image is rvot. 
+ The results predicted correspond to 95% assurance that the the view of the this image is right ventrical outflow tract (rvot view) which is a correct prediction.
+ 
+ Second time, I used this image using the same classifier. 
+ ![](IMG2.jpg)
+ 
+ And these were the results:
+ ![](Results2.jpg) 
+ 
+ In this case, the results correctly predicted with 99% probability that the view is four chamber view (4-c).
 
 
 
