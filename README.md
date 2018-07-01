@@ -60,8 +60,14 @@ python -m scripts.retrain \
 
 Upon classification, the images will be classified into different categories and saved into their respective class folders.
     
-
-
+ # Results:
+ Here's an image which I tried classifying.
+ ![](IMG1.jpg)
+ 
+ These are the results:
+ ![](Results.jpg)
+ 
+ The results predicted correspond to 95% assurance that the the view of the this image is rvot. 
 
 
 
