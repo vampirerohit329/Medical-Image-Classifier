@@ -1,6 +1,5 @@
 # Overview
 Using deep learning libraries, built a medical image classifier to classify fetal heart images into four categories to reduce the efforts of medical professionals.
-Used docker toolbox as a command line interface for windows and the models used for classifying the images have been taken from the  tensorflow-for-poets-2 github repository.
 
 # Saving the images (Imp)
 Save the classified images in a folder named Photos in tf_files directory inside main directory. 
